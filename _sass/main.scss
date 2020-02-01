@@ -1,0 +1,101 @@
+$gradient-pink: #D54B83;
+$gradient-navy: #33307A;
+
+$main-color: $gradient-navy;
+
+$title-font: "Futura", sans-serif;
+$main-font: "Palatino", serif;
+
+$title-size: 100pt;
+
+$text-margin: 10px;
+
+$threshold-width: 450px;
+
+$desktop-width: 1080px;
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-color: $main-color; 
+}
+
+/* Header stuff */
+
+header
+{
+	width: 100%;
+	height: 12em;
+	background: linear-gradient($gradient-pink, $gradient-navy);
+}
+
+#titlebox
+{
+	width: 95%;
+	margin: 0 auto;
+
+	h1
+	{
+		margin: 0;
+		color: white;
+		font: condensed $title-size $title-font;
+		text-align: center;
+		letter-spacing: .35em;
+	}
+}
+
+/* Body stuff */
+
+h1
+{
+	width: 100%;
+	font: condensed $title-font;
+	margin: $text-margin;
+}
+
+.prime
+{
+	color: $main-color;
+}
+
+h2
+{
+	font-family: $main-font;
+	margin: $text-margin;
+}
+
+p
+{
+	width: 100%;
+	font-family: $main-font;
+	margin: $text-margin;
+}
+
+.container
+{
+	background-color: white;
+	margin: 0 auto;
+	width: 95%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Desktop Additional Rules */
+
+@media only screen and (min-width: $threshold-width)
+{
+	#titlebox
+	{
+		max-width: $desktop-width;
+	}
+
+	.container
+	{
+		max-width: $desktop-width;
+	}
+}
