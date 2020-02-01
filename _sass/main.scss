@@ -6,13 +6,16 @@ $main-color: $gradient-navy;
 $title-font: "Futura", sans-serif;
 $main-font: "Palatino", serif;
 
-$title-size: 9em;
+$title-size: 4.5em;
 
 $text-margin: 10px;
 
 $threshold-width: 450px;
 
+/* Desktop special values */
+
 $desktop-width: 1080px;
+$desktop-title-size: $title-size * 2;
 
 *
 {
@@ -42,6 +45,7 @@ header
 	h1
 	{
 		margin: 0;
+		padding: 0;
 		color: white;
 		font: condensed $title-size $title-font;
 		text-align: center;
@@ -93,10 +97,15 @@ p
 	{
 		display: none;
 	}
-	
+
 	#titlebox
 	{
 		max-width: $desktop-width;
+
+		h1
+		{
+			font-size: $desktop-title-size;
+		}
 	}
 
 	.container
