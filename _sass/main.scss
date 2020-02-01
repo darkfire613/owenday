@@ -89,6 +89,11 @@ p
 
 @media only screen and (min-width: $threshold-width)
 {
+	.mobilebreak
+	{
+		display: none;
+	}
+	
 	#titlebox
 	{
 		max-width: $desktop-width;
