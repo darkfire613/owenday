@@ -17,6 +17,16 @@ $threshold-width: 450px;
 $desktop-width: 1080px;
 $desktop-title-size: $title-size * 2;
 
+.desktop
+{
+	display: none;
+}
+
+.mobile
+{
+	display: inherit;
+}
+
 *
 {
 	margin: 0;
@@ -93,9 +103,14 @@ p
 
 @media only screen and (min-width: $threshold-width)
 {
-	.mobilebreak
+	.mobile
 	{
 		display: none;
+	}
+
+	.desktop
+	{
+		display: inline;
 	}
 
 	#titlebox
