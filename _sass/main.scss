@@ -13,7 +13,7 @@ $title-spacing: .35em;
 $h1-size: 2.2em;
 $h2-size: $h1-size * 0.77;
 
-$text-margin: 10px;
+$text-margin: 12pt;
 
 $threshold-width: 800px;
 
@@ -86,7 +86,7 @@ p
 {
 	width: 100%;
 	font-family: $main-font;
-	margin: $text-margin;
+	margin: $text-margin * .7 $text-margin;
 	color: $text-color;
 }
 

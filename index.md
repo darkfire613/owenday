@@ -23,10 +23,8 @@ attend either, both, or even none, as your availability and inclination dictates
 
 ### Feb 14
 
-**What:** Sonic the Hedgehog, The Movie
-
-**Where:** A Movie Theater
-
+**What:** Sonic the Hedgehog, The Movie<br>
+**Where:** A Movie Theater<br>
 **When:** Friday, 14 February, Evening
 
 Because the universe is fair and kind and just, it has seen fit to bestow the greatest movie of the
@@ -36,10 +34,8 @@ the Hedgehog*. Let's go see it after work!
 
 ### Feb 15
 
-**What:** Drinks and games
-
-**Where:** Miniboss Arcade Bar, San Jose
-
+**What:** Drinks and games<br>
+**Where:** Miniboss Arcade Bar, San Jose<br>
 **When:** Saturday, 15 February, 7pm
 
 Miniboss has the great double distinction of being the first bar I visited in California and also
