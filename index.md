@@ -31,9 +31,18 @@ attend either, both, or even none, as your availability and inclination dictates
 
 Because the universe is fair and kind and just, it has seen fit to bestow the greatest movie of the
 new decade, only six weeks in, and on the great Owen Day 2020. I am of course talking about *Sonic
-the Hedgehog*. 
+the Hedgehog*. Let's go see it after work!
 
 
 ### Feb 15
 
-Miniboss
+**What:** Drinks and games
+
+**Where:** Miniboss Arcade Bar, San Jose
+
+**When:** Saturday, 15 February, 7pm
+
+Miniboss has the great double distinction of being the first bar I visited in California and also
+being  only two blocks away from my house! They've got a great selection of arcade games and
+pinball, plus a  solid cocktail list, and attached restaurant for food needs. Come on out and play
+some games!
