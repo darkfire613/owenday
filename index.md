@@ -25,7 +25,15 @@ attend either, both, or even none, as your availability and inclination dictates
 Feb 14
 -------------------------------
 
-Sonic the Hedgehog
+**What:** Sonic the Hedgehog, The Movie
+
+**Where:** A Movie Theater
+
+**When:** Friday, 14 February, Evening
+
+Because the universe is fair and kind and just, it has seen fit to bestow the greatest movie of the
+new decade, only six weeks in, and on the great Owen Day 2020. I am of course talking about *Sonic
+the Hedgehog*. 
 
 
 Feb 15

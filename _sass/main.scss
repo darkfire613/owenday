@@ -39,8 +39,15 @@ $desktop-title-size: $title-size * 2;
 
 body
 {
-	background-color: $main-color; 
+	background-color: $gradient-pink; 
 }
+
+#body-container
+{
+	background-color: $main-color;
+	min-height: 100vh;
+}
+
 
 /* Header stuff */
 
@@ -52,10 +59,10 @@ header
 
 	h1
 	{
-		margin: 0 auto;
 		color: white;
 		font: condensed $title-size $title-font;
 		text-align: center;
+		overflow: hidden;
 		letter-spacing: .35em;
 	}
 }
