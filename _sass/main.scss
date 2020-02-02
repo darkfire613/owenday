@@ -45,17 +45,10 @@ header
 	width: 100%;
 	height: 12em;
 	background: linear-gradient($gradient-pink, $gradient-navy);
-}
-
-#titlebox
-{
-	width: 95%;
-	margin: 0 auto;
 
 	h1
 	{
-		margin: 0;
-		padding: 0;
+		margin: 0 auto;
 		color: white;
 		font: condensed $title-size $title-font;
 		text-align: center;
@@ -113,10 +106,8 @@ p
 		display: inline;
 	}
 
-	#titlebox
+	header
 	{
-		max-width: $desktop-width;
-
 		h1
 		{
 			font-size: $desktop-title-size;
