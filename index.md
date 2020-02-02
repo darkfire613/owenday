@@ -3,8 +3,7 @@ layout: default
 title: Owen Day
 ---
 
-Friday, 14 February 2020
-========================
+## Friday, 14 February 2020
 
 Owen Day is the only true holiday of February 14. The holiday that was previously celebrated shall
 not be acknowledged by name; it is known only as the False Holiday. For too long, we have been
@@ -22,8 +21,7 @@ Also it's a day for hanging out, having fun, and drinking, as all the best holid
 in mind, both of the following activities have been planned with YOU (yes YOU) in mind. Feel free to
 attend either, both, or even none, as your availability and inclination dictates!
 
-Feb 14
--------------------------------
+### Feb 14
 
 **What:** Sonic the Hedgehog, The Movie
 
@@ -36,7 +34,6 @@ new decade, only six weeks in, and on the great Owen Day 2020. I am of course ta
 the Hedgehog*. 
 
 
-Feb 15
----------------------------------
+### Feb 15
 
 Miniboss
