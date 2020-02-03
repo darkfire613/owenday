@@ -66,6 +66,22 @@ header
 	margin: 0 auto;
 }
 
+/* Footer stuff */
+footer
+{
+	height: 2em;
+	margin: 0 auto;
+	width: 95%;
+	text-align: center;
+
+	span
+	{
+		color: white;
+		font-family: $title-font;
+		font-size:10pt;
+	}
+}
+
 /* Body stuff */
 
 h2
@@ -99,6 +115,72 @@ p
 	flex-wrap: wrap;
 }
 
+<<<<<<< HEAD
+=======
+/* RSVP box */
+
+.rsvp
+{
+	color: white;
+	background-color: #666;
+	margin: $text-margin;
+	padding: 1em;
+	border-radius: 1em;
+	width: 100%;
+
+	ul
+	{
+		list-style: none;
+	}
+	li
+	{
+		width: 100%;
+		margin: 6pt 0;
+	}
+}
+
+.rsvp-label
+{
+	font: condensed $h2-size $title-font;
+	cursor: pointer;
+	display: block;
+	width: 100%;
+}
+
+.rsvp-form
+{
+	input[type=text]
+	{
+		width: 100%;
+		height: 14pt;
+	}
+
+	textarea
+	{
+		width: 100%;
+		height: 36pt;
+	}
+
+	label
+	{
+		margin-right: 2em;
+		font-family: $title-font;
+	}
+
+	button
+	{
+		padding: 4pt;
+		font:12pt $title-font;
+		color: $text-color;
+	}
+}
+
+.success
+{
+	font-size: 80pt;
+	color: #53D54B;
+}
+
 /* Desktop Additional Rules */
 
 @media only screen and (min-width: $threshold-width)
@@ -125,4 +207,14 @@ p
 	{
 		max-width: $desktop-width;
 	}
-}
+
+
+	footer
+	{
+		max-width: $desktop-width;
+	}
+
+	.rsvp
+	{
+		max-width: 300px;
+	}
