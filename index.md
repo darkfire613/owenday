@@ -36,7 +36,7 @@ the Hedgehog*. Let's go see it after work!
 
 **What:** Drinks and games<br>
 **Where:** Miniboss Arcade Bar, San Jose<br>
-**When:** Saturday, 15 February, 7pm
+**When:** Saturday, 15 February, 8pm
 
 Miniboss has the great double distinction of being the first bar I visited in California and also
 being  only two blocks away from my house! They've got a great selection of arcade games and
