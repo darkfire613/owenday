@@ -15,6 +15,8 @@ On the day of the event, you will get a link to a Zoom, but this is not any old 
 
 The Zoom will start up at 4pm pacific. Come on through, bring a drink or two, and let's have some fun!
 
+Feel free to invite anyone else who you feel should be here as well! This house has enough room for EVERYONE.
+
 ## Drink Menu
 
 To keep a sense of connectedness, everyone is free to mix up the following two drinks to pretend that they are scooping out of a sketchy communal punch bowl in the corner:
