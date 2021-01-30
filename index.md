@@ -19,15 +19,4 @@ The Zoom will start up at 4pm pacific. Come on through, bring a drink or two, an
 
 To keep a sense of connectedness, everyone is free to mix up the following two drinks to pretend that they are scooping out of a sketchy communal punch bowl in the corner:
 
-### Drink One
-
-lists are not playing nicely at all >:(
-
-* ingredient 1
-* ingredient 2
-
-Mix the things together
-
-### Drink Two
-
-Something smoky
+**Drink Menu coming soon...**
