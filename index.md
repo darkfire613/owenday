@@ -3,48 +3,31 @@ layout: default
 title: Owen Day
 ---
 
-## Thank you!!
+# Owen Day: A Virtual House Party
 
-A big thank you to everyone who came out and celebrated Owen Day 2020 with me! This was perhaps the
-most successful Owen Day to date, and it's all because of you. Keep an eye on this space, as I will
-be updating the site with news of more fun parties and gatherings that I have planned. Stay tuned!
+The world may be different this year, but it doesn't mean Owen Day has to be! Well, it's a little bit different, and we're all a little more broken, and time may or may not exist any more so let's celebrate in a space that may or may not really exist.
 
-## Friday, 14 February 2020
+**When: Saturday, 13 February, 4pm PST / 6pm CST**
 
-Owen Day is the only true holiday of February 14. The holiday that was previously celebrated shall
-not be acknowledged by name; it is known only as the False Holiday. For too long, we have been
-constrained by a social obligation, foisted upon us all by the marketing department of Hallmark, to
-guilt us into buying chocolates, and greeting cards, and expensive dates. This is not romance. The
-death of romance is obligation.
+Welcome to my house! Well, virtual house. Which means we are unbounded by the constraints of reality for just an evening. This house may not make physical sense, but don't worry, as you get more drunk it gets worse.
 
-The meaning of Owen Day is different. Instead of either feeling sad for being alone, or guilty for
-having to conform to some capitalistic conception of what the False Holiday is supposed to embody,
-why not instead spend it with your best friend Owen? While the day is named after me, it truly
-embodies the spirit of fully realizing oneself: embrace your own meaning rather than having one
-imposed on you. Owen Day is a day for self-actualization.
+On the day of the event, you will get a link to a Zoom, but this is not any old Zoom. It is actually a portal to a house that has been separated from the fabric of reality, existing in all places and no time. Here's the idea: imagine you are attending a college house party. Really put yourself in that headspace. The Zoom will be structured like a house, with breakout rooms for each room of the home. So come on in, mingle amongst the rooms, and if you're feeling extra, mix up one of the specialty house drinks below to feel connected.
 
-Also it's a day for hanging out, having fun, and drinking, as all the best holidays are. With that
-in mind, both of the following activities have been planned with YOU (yes YOU) in mind. Feel free to
-attend either, both, or even none, as your availability and inclination dictates!
+The Zoom will start up at 4pm pacific. Come on through, bring a drink or two, and let's have some fun!
 
-### Feb 14
+## Drink Menu
 
-**What:** Sonic the Hedgehog, The Movie<br>
-**Where:** A Movie Theater<br>
-**When:** Friday, 14 February, Evening
+To keep a sense of connectedness, everyone is free to mix up the following two drinks to pretend that they are scooping out of a sketchy communal punch bowl in the corner:
 
-Because the universe is fair and kind and just, it has seen fit to bestow the greatest movie of the
-new decade, only six weeks in, and on the great Owen Day 2020. I am of course talking about *Sonic
-the Hedgehog*. Let's go see it after work!
+### Drink One
 
+lists are not playing nicely at all >:(
 
-### Feb 15
+* ingredient 1
+* ingredient 2
 
-**What:** Drinks and games<br>
-**Where:** Miniboss Arcade Bar, San Jose<br>
-**When:** Saturday, 15 February, 7pm
+Mix the things together
 
-Miniboss has the great double distinction of being the first bar I visited in California and also
-being  only two blocks away from my house! They've got a great selection of arcade games and
-pinball, plus a  solid cocktail list, and attached restaurant for food needs. Come on out and play
-some games!
+### Drink Two
+
+Something smoky
